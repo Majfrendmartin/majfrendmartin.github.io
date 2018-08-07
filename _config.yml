@@ -9,15 +9,15 @@ minimal_mistakes_skin    : "air" # "default", "contrast", "dark", "dirt", "mint"
 
 # Site Settings
 locale                   : "en"
-title                    : "Majfrendmartin - The Wild East Coder"
+title                    : "Paweł Raciborski"
 title_separator          : "-"
 name                     : &name "Paweł Raciborski"
-description              : "Is Mobile Full Stack Developar a thing? Android Development and DevOps related issues"
-url                      : "https://majfrendmartin.github.io"
+description              : "Dev blog"
+url                      : "https://pawelraciborski.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "Majfrendmartin/majfrendmartin.github.io"
+repository               : "PawelRaciborski/pawelraciborski.github.io"
 teaser                   : "/assets/images/avatar.png"
-# breadcrumbs            : false # true, false (default)
+# breadcrumbs            : true #, false (default)
 words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
@@ -94,7 +94,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Majfrendmartin"
+  github           : "PawelRaciborski"
   gitlab           :
   google_plus      :
   keybase          :
@@ -111,7 +111,7 @@ author:
   weibo            :
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
-  bio              : "Is Mobile Full Stack Developar a thing?"
+  bio              : "Android Developer. Kotlin fan. Wannabe bloger."
 
 
 # Reading Files
