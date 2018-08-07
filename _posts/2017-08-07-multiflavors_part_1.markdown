@@ -1,6 +1,6 @@
 ---
 title:  "Multi module and multi flavor project - PART 1"
-date:   2018-08-07 00:23:00 +0100
+date:   2018-08-07 23:00:00 +0100
 categories: 
   - development
 tags: android gradle
