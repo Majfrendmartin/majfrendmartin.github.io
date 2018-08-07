@@ -16,8 +16,8 @@ description              : "Dev blog"
 url                      : "https://pawelraciborski.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "PawelRaciborski/pawelraciborski.github.io"
-teaser                   : "/assets/images/avatar.png"
-# breadcrumbs            : true #, false (default)
+teaser                   : #"/assets/images/avatar.png"
+breadcrumbs            : true #, false (default)
 words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
