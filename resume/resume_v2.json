@@ -44,14 +44,45 @@
     "cover": "https://pawelraciborski.github.io/resume/images/work.jpg",
     "items": [
       {
+        "company": "Roche",
+        "position": "Lead Android Developer",
+        "current": true,
+        "start_date": "01-01-2020",
+        "responsibilities": [
+          "Pharmaceutical trial patients monitoring app development",
+          "Managing a team of Android developers"
+        ],
+        "cover": "https://pawelraciborski.github.io/resume/images/roche.png"
+      },
+      {
+        "company": "Roche",
+        "position": "Senior Android Developer",
+        "start_date": "01-06-2018",
+        "end_date": "01-01-2020",
+        "responsibilities": [
+          "Pharmaceutical trial patients monitoring app development"
+        ],
+        "cover": "https://pawelraciborski.github.io/resume/images/roche.png"
+      },
+      {
+        "company": "Transition TechnologiesManaged Services Sp. z o.o.",
+        "position": "Senior Android Developer",
+        "current": true,
+        "start_date": "01-06-2018",
+        "responsibilities": [
+          "Android application development"
+        ],
+        "cover": "https://pawelraciborski.github.io/resume/images/ttms.png"
+      },
+      {
         "company": "Grape Up Sp. z o.o.",
         "position": "Software Developer",
-        "current": true,
         "start_date": "01-05-2015",
+        "end_date": "01-06-2018",
         "responsibilities": [
           "IM & VoIP system development (Android client)",
           "Designing and developing cloud based (AWS, BOSH and Cloud Foundry) environment to run microservices oriented systems.",
-		  "Devloping backend systems with Spring Boot."
+          "Developing backend systems with Spring Boot."
         ],
         "cover": "https://pawelraciborski.github.io/resume/images/gu.png"
       },
@@ -110,15 +141,24 @@
       },
       {
         "name": "Kotlin",
-        "level": 4
+        "level": 5
       },
       {
         "name": "Java",
         "level": 5
       },
       {
+        "name": "Dart",
+        "level": 3
+      },
+      {
         "name": "iOS",
         "description": "iOS development with Objective-C. Knowledge of both Xcode and AppCode IDEs. Familiarity with popular libraries.",
+        "level": 4
+      },
+      {
+        "name": "Flutter",
+        "description": "Mobile development with a touch of web and desktop",
         "level": 4
       },
       {
