@@ -1,0 +1,171 @@
+{
+  "version": "1",
+  "bio": {
+    "name": "Paweł",
+    "surname": "Raciborski",
+    "avatar": "https://pawelraciborski.github.io/resume/images/avatar.jpg",
+    "description": "Mobile Software Developer/Cloud Developer",
+    "socials": [
+      {
+        "type": "github",
+        "url": "https://github.com/PawelRaciborski"
+      },
+      {
+        "type": "linkedin",
+        "url": "https://www.linkedin.com/in/pawelraciborski"
+      }
+    ]
+  },
+  "education": {
+    "title": "Education",
+    "cover": "https://pawelraciborski.github.io/resume/images/education.jpg",
+    "items": [
+      {
+        "school": "Bialystok University of Technology (Politechnika Białostocka)",
+        "faculty": "Computer Science",
+        "degree": "Master of Science",
+        "speciality": "Graphic and multimedia systems",
+        "start_year": 2013,
+        "end_year": 2014,
+        "cover": "https://pawelraciborski.github.io/resume/images/pb.png"
+      },
+      {
+        "school": "Bialystok University of Technology (Politechnika Białostocka)",
+        "faculty": "Computer Science",
+        "degree": "Bachelor of Science",
+        "start_year": 2009,
+        "end_year": 2013,
+        "cover": "https://pawelraciborski.github.io/resume/images/pb.png"
+      }
+    ]
+  },
+  "jobs": {
+    "title": "Work Experience",
+    "cover": "https://pawelraciborski.github.io/resume/images/work.jpg",
+    "items": [
+      {
+        "company": "Grape Up Sp. z o.o.",
+        "position": "Software Developer",
+        "current": true,
+        "start_date": "01-05-2015",
+        "responsibilities": [
+          "IM & VoIP system development (Android client)",
+          "Designing and developing cloud based (AWS, BOSH and Cloud Foundry) environment to run microservices oriented systems.",
+		  "Devloping backend systems with Spring Boot."
+        ],
+        "cover": "https://pawelraciborski.github.io/resume/images/gu.png"
+      },
+      {
+        "company": "Avaya Inc.",
+        "position": "Android Software Developer",
+        "start_date": "01-05-2015",
+        "end_date": "01-05-2017",
+        "responsibilities": [
+          "IM & VoIP system development (Android client)"
+        ],
+        "cover": "https://pawelraciborski.github.io/resume/images/av.png"
+      },
+      {
+        "company": "Omega Code Sp. z o.o.",
+        "position": "Mobile Software Developer",
+        "start_date": "01-06-2014",
+        "end_date": "01-05-2015",
+        "responsibilities": [
+          "Working on Android client for financial system for worldwide loan company",
+          "Android/iOS development for startups"
+        ],
+        "cover": "https://pawelraciborski.github.io/resume/images/oc.png"
+      },
+      {
+        "company": "QBurst Poland Sp. z o.o.",
+        "position": "Mobile Software Developer",
+        "start_date": "01-04-2013",
+        "end_date": "01-06-2014",
+        "responsibilities": [
+          "Developing mobile clients for medical facilities and pharmacies (Android, iOS, Windows 8.1 (WinRT))",
+          "Android/iOS development for startups"
+        ],
+        "cover": "https://pawelraciborski.github.io/resume/images/qb.png"
+      },
+      {
+        "company": "Devcore.NET s.j.",
+        "position": "Junior Software Developer",
+        "start_date": "01-05-2012",
+        "end_date": "01-03-2013",
+        "responsibilities": [
+          "Windows Phone and Windows 8 (WinRT) development"
+        ],
+        "cover": "https://pawelraciborski.github.io/resume/images/dc.png"
+      }
+    ]
+  },
+  "skills": {
+    "title": "Skills",
+    "cover": "https://pawelraciborski.github.io/resume/images/skill.jpg",
+    "items": [
+      {
+        "name": "Android",
+        "description":"Android development with Java and Kotlin. Knowledge of both Eclipse and IntelliJ Idea (Android Studio) IDEs. Familiarity with popular (RxJava, Dagger2, Retrofit2, Butterknife) and less popular (Koin, Calligraphy) libraries. Gradle and Maven knowledge.",
+        "level": 5
+      },
+      {
+        "name": "Kotlin",
+        "level": 4
+      },
+      {
+        "name": "Java",
+        "level": 5
+      },
+      {
+        "name": "iOS",
+        "description": "iOS development with Objective-C. Knowledge of both Xcode and AppCode IDEs. Familiarity with popular libraries.",
+        "level": 4
+      },
+      {
+        "name": "Cloud development",
+        "description": "Familiar with Cloud Foundry PaaS (Pivotal Cloud Foundry Developer 1.7 Certificate). Spring Boot web application development.",
+        "level": "4"
+      },
+      {
+        "name": "UX designing",
+        "level": 3
+      },
+      {
+        "name": "Programing languages",
+        "description": "C#, C/C++, Python"
+      },
+      {
+        "name": ".NET framework",
+        "description": "WPF, Silverlight, Windows Phone, WinRT"
+      },
+      {
+        "name": "Version control systems",
+        "description": "GIT, SVN, TFS"
+      },
+      {
+        "name": "Issue trackers",
+        "description": "JIRA, Redmine, Pivotal Tracker"
+      },
+      {
+        "name": "CI systems",
+        "description": "Bamboo, Jenkins, Concourse"
+      },
+      {
+        "name": "Other",
+        "description": "Basic knowledge of HTML, JavaScript, SQL, Assembler"
+      }
+    ]
+  },
+  "about": {
+    "title": "About",
+    "cover": "https://pawelraciborski.github.io/resume/images/about.jpg",
+    "items": [
+      {
+        "note": "I'm a mobile software developer for a few years now. I've started with Windows Phone/WinRT, but later turned to iOS and Android. I've been working on many different projects, from social startups to medical and financial systems for international companies and teams that came in all shapes and sizes (from being single mobile dev in a project to being part of a huge teams distributed in multiple countries around the world). Currently I'm into Android development and I would like to follow this path in the future.\n\nLately, I found great interest in learning Kotlin (both for Android and Spring purposes) and I've tried to tackle with full blown test driven development for Android.\n\nYou can find me on:\n- LinkedIn: https://www.linkedin.com/in/pawelraciborski\n- GitHub: https://github.com/pawelraciborski\n\nInterests: IT news, music, sci-fi and fantasy books, history, photography, computer games."
+      },
+      {
+        "note": "Credits:\n\nThis is an open source project and the code can be found here: https://github.com/pawelraciborski/resume\n\nI would also like to thank authors and contributors of libraries I'm using in this app:\n- Butter Knife: http://jakewharton.github.io/butterknife\n- Retrofit: http://square.github.io/retrofit\n- Dagger: https://google.github.io/dagger\n- RxJava: https://github.com/ReactiveX/RxJava\n- Glide: https://github.com/bumptech/glide\n- Gson: https://github.com/google/gson\n- EventBus: http://greenrobot.org/eventbus\n- Lightweight-Stream-API: https://github.com/aNNiMON/Lightweight-Stream-API\n- Lombok: https://projectlombok.org"
+      }
+    ]
+  }
+}
